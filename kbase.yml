@@ -9,5 +9,5 @@ module-description:
 service-language:
     python
 
-
-
+owners:
+    [msneddon, rsutormin]
