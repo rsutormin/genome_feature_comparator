@@ -7,7 +7,7 @@ tooltip  : |
     Compare the feature calls of two genomes.
 
 screenshots :
-    []
+    - compare_genome_features_input1.jpg
 
 #
 # Define the set of other narrative methods that should be suggested to the user.
